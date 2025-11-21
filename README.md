@@ -1,11 +1,9 @@
-<b> FarmGuide Kenya - Crop Management Assistant </b>
-🌱 Aligning with Sustainable Development Goals (SDGs)
-<div align="center">
-https://via.placeholder.com/800x200/4CAF50/FFFFFF?text=FarmGuide+Kenya+Advancing+Sustainable+Development+Goals
+<b> FarmGuide Kenya - Crop Management Assistant 
+🌱 Aligning with Sustainable Development Goals (SDGs) </b>
 
 Transforming Kenyan Agriculture Through Digital Innovation
 
-[Live Demo] • [Pitch Deck] • [Developer Contact]
+[Live Demo: https://farmguidekenya.netlify.app/ ] • [Pitch Deck: ] • [Developer Contact: 0790511038, brianmaina427@gmail.com]
 
 </div>
 📊 SDG Alignment Overview
