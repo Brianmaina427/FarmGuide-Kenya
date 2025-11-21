@@ -6,7 +6,7 @@ const CROP_DATA = {
     // --- STAPLE CROPS ---
 
     'Maize': {
-        name: 'Maize (Wimbi)',
+        name: 'Maize (Mahindi)',
         type: 'Staple',
         durationWeeks: 18,
         baseFertilizerKgPerHa: 125, 
@@ -29,7 +29,7 @@ const CROP_DATA = {
     },
 
     'Rice': {
-        name: 'Rice (Paddy)',
+        name: 'Rice (Mchele)',
         type: 'Staple',
         durationWeeks: 16,
         baseFertilizerKgPerHa: 150, 
@@ -99,7 +99,7 @@ const CROP_DATA = {
     },
 
     'Cabbages': {
-        name: 'Cabbages',
+        name: 'Cabbages (Kabichi)',
         type: 'Cash',
         durationWeeks: 10,
         baseFertilizerKgPerHa: 750,
@@ -123,7 +123,7 @@ const CROP_DATA = {
     },
     
     'Carrots': {
-        name: 'Carrots',
+        name: 'Carrots (Karoti)',
         type: 'Cash',
         durationWeeks: 12,
         baseFertilizerKgPerHa: 600, 
@@ -194,7 +194,7 @@ const CROP_DATA = {
     // --- VEGETABLES & FRUITS ---
 
     'Sukuma Wiki': {
-        name: 'Sukuma Wiki (Collard Greens)',
+        name: 'Collard Greens (Sukuma Wiki)',
         type: 'Vegetable',
         durationWeeks: 8,
         baseFertilizerKgPerHa: 200, 
@@ -216,7 +216,7 @@ const CROP_DATA = {
     },
     
     'Pineapples': {
-        name: 'Pineapples',
+        name: 'Pineapples (Nanasi)',
         type: 'Fruit Cash',
         durationWeeks: 78,
         baseFertilizerKgPerHa: 400,
@@ -239,7 +239,7 @@ const CROP_DATA = {
     },
 
     'Watermelons': {
-        name: 'Watermelons',
+        name: 'Watermelons (Tikiti maji)',
         type: 'Fruit Cash',
         durationWeeks: 12,
         baseFertilizerKgPerHa: 180,
@@ -306,7 +306,7 @@ const CROP_DATA = {
     },
     
     'Spinach': {
-        name: 'Spinach',
+        name: 'Spinach (Mchicha)',
         type: 'Vegetable',
         durationWeeks: 9,
         baseFertilizerKgPerHa: 200, 
@@ -368,6 +368,7 @@ const CROP_DATA = {
     }
 
 };
+
 
 
 
