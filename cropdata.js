@@ -14,7 +14,7 @@ const CROP_DATA = {
         topDressFertilizerKgPerHa: 125,
         topDressFertilizerType: 'CAN (Calcium Ammonium Nitrate)',
         pestSprayLitresPerHa: 1.5,
-        image: 'https://cdn.pixabay.com/photo/2018/10/21/17/23/cornfield-3763119_1280.jpg',
+        image: 'https://images.pexels.com/photos/2131927/pexels-photo-2131927.jpeg',
         commonPests: [
             { name: 'Fall Armyworm', solution: 'Scouting is key. Use targeted systemic insecticides (e.g., Emamectin Benzoate) or biological controls when larvae are young.' },
             { name: 'Maize Lethal Necrosis Disease (MLND)', solution: 'Use certified, resistant seed. Control vector pests (thrips) and practice strict crop rotation.' }
@@ -272,7 +272,7 @@ const CROP_DATA = {
         topDressFertilizerKgPerHa: 50,
         topDressFertilizerType: 'CAN (Top Dressing)',
         pestSprayLitresPerHa: 0.5, 
-        image: 'https://cdn.pixabay.com/photo/2017/06/21/17/48/coriander-2427969_1280.jpg',
+        image: 'https://images.pexels.com/photos/6001314/pexels-photo-6001314.jpeg',
         commonPests: [
             { name: 'Aphids', solution: 'Use neem oil or mild, approved insecticide (0.5 L/Ha). Do not spray close to harvest.' },
             { name: 'Damping Off', solution: 'Ensure well-drained soil and avoid overwatering, especially immediately after sowing.' }
@@ -293,7 +293,7 @@ const CROP_DATA = {
         topDressFertilizerKgPerHa: 50, 
         topDressFertilizerType: 'CAN (Top Dressing)',
         pestSprayLitresPerHa: 0.0, 
-        image: 'https://cdn.pixabay.com/photo/2016/11/23/00/32/beet-1851423_1280.jpg',
+        image: 'https://images.pexels.com/photos/533360/pexels-photo-533360.jpeg',
         commonPests: [
             { name: 'Leaf Miners', solution: 'Squash the larvae inside the leaf or remove and destroy infected leaves.' },
             { name: 'Cercospora Leaf Spot', solution: 'Practice crop rotation and apply copper-based fungicide if severe.' }
@@ -368,5 +368,6 @@ const CROP_DATA = {
     }
 
 };
+
 
 
