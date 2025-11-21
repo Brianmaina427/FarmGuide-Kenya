@@ -14,7 +14,7 @@ const CROP_DATA = {
         topDressFertilizerKgPerHa: 125,
         topDressFertilizerType: 'CAN (Calcium Ammonium Nitrate)',
         pestSprayLitresPerHa: 1.5,
-        image: 'https://images.unsplash.com/photo-1596640163901-5ad17458e253?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFpemUlMjBmaWVsZHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60',
+        image: 'cabbage.png',
         commonPests: [
             { name: 'Fall Armyworm', solution: 'Scouting is key. Use targeted systemic insecticides (e.g., Emamectin Benzoate) or biological controls when larvae are young.' },
             { name: 'Maize Lethal Necrosis Disease (MLND)', solution: 'Use certified, resistant seed. Control vector pests (thrips) and practice strict crop rotation.' }
@@ -366,4 +366,5 @@ const CROP_DATA = {
             { week: 40, activity: 'Pruning (Dormancy)', detail: 'Prune during the dormant season (dry season) to remove dead wood, shape the tree, and ensure good light penetration for fruit colour.', inputKgPerHa: 0, inputType: 'None' }
         ]
     }
+
 };
