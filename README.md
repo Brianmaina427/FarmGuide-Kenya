@@ -4,6 +4,7 @@
 Transforming Kenyan Agriculture Through Digital Innovation
 
 [Live Demo: https://farmguidekenya.netlify.app/ ] • [Developer Contact: 0790511038, brianmaina427@gmail.com]
+[Pirch Deck: https://www.canva.com/design/DAG5UUzi-Es/wKAoiDqYJoHKbAdaA6sI1w/edit?utm_content=DAG5UUzi-Es&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton ]
 
 </div>
 📊 SDG Alignment Overview
