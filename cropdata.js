@@ -107,7 +107,7 @@ const CROP_DATA = {
         topDressFertilizerKgPerHa: 400,
         topDressFertilizerType: 'CAN (Calcium Ammonium Nitrate)',
         pestSprayLitresPerHa: 1.0, 
-        image: 'https://cdn.pixabay.com/photo/2016/03/05/19/02/cabbage-1238251_1280.jpg',
+        image: 'https://images.pexels.com/photos/1232594/pexels-photo-1232594.jpeg',
         commonPests: [
             { name: 'Diamond Back Moth (DBM)', solution: 'Rotate insecticides to prevent resistance. Use biological controls (Bacillus thuringiensis) or targeted chemical sprays like Ampligo.' },
             { name: 'Bacterial Black Rot', solution: 'Use certified, clean seed and practice strict hygiene. No chemical cure; rotation is vital.' }
@@ -368,6 +368,7 @@ const CROP_DATA = {
     }
 
 };
+
 
 
 
