@@ -272,7 +272,7 @@ const CROP_DATA = {
         topDressFertilizerKgPerHa: 50,
         topDressFertilizerType: 'CAN (Top Dressing)',
         pestSprayLitresPerHa: 0.5, 
-        image: 'https://images.pexels.com/photos/1558712/pexels-photo-1558712.jpeg',
+        image: 'https://www.pexels.com/photo/green-leafed-plant-606540',
         commonPests: [
             { name: 'Aphids', solution: 'Use neem oil or mild, approved insecticide (0.5 L/Ha). Do not spray close to harvest.' },
             { name: 'Damping Off', solution: 'Ensure well-drained soil and avoid overwatering, especially immediately after sowing.' }
@@ -368,6 +368,7 @@ const CROP_DATA = {
     }
 
 };
+
 
 
 
