@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FarmGuide Kenya - Your Crop Companion</title>
+    <link rel="stylesheet" href="C:\Users\User\OneDrive\Desktop\Final PLP\styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <i class="fas fa-seedling"></i>
+                <h1>FarmGuide Kenya</h1>
+            </div>
+            <p class="tagline">Your digital companion for successful farming</p>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <h2>Grow with Confidence</h2>
+                <p>Get step-by-step guidance for over 15 crops commonly grown in Kenya. From planting to harvest, we've got you covered.</p>
+            </div>
+            <div class="hero-image">
+                <img src="https://images.unsplash.com/photo-1500382017468-9049fed747ef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Kenyan Farmer">
+            </div>
+        </div>
+    </section>
+
+    <!-- Crop Selection Section -->
+    <section class="crop-selection" id="crop-selection">
+        <div class="container">
+            <h2>Select Your Crop</h2>
+            <p class="section-description">Choose the crop you want to grow and enter your farm size to get a personalized farming guide.</p>
+            
+            <div class="selection-form">
+                <div class="form-group">
+                    <label for="crop-select">Crop Type</label>
+                    <select id="crop-select">
+                        <option value="">-- Select a crop --</option>
+                        <!-- Options will be populated by JavaScript -->
+                    </select>
+                </div>
+                
+                <div class="form-group">
+                    <label for="land-size">Farm Size (Hectares)</label>
+                    <input type="number" id="land-size" min="0.1" step="0.1" placeholder="e.g., 2.5">
+                </div>
+                
+                <button id="generate-guide" class="btn-primary">
+                    <i class="fas fa-seedling"></i> Generate Farming Guide
+                </button>
+            </div>
+            
+            <div class="crop-grid" id="crop-grid">
+                <!-- Crop cards will be populated by JavaScript -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Guide Display Section -->
+    <section class="guide-display" id="guide-display" style="display: none;">
+        <div class="container">
+            <div class="guide-header">
+                <h2 id="guide-title">Your Farming Guide</h2>
+                <button id="back-to-selection" class="btn-secondary">
+                    <i class="fas fa-arrow-left"></i> Select Another Crop
+                </button>
+            </div>
+            
+            <div class="guide-summary">
+                <div class="summary-card">
+                    <h3>Crop Information</h3>
+                    <div class="summary-details">
+                        <p><strong>Crop:</strong> <span id="summary-crop">-</span></p>
+                        <p><strong>Type:</strong> <span id="summary-type">-</span></p>
+                        <p><strong>Duration:</strong> <span id="summary-duration">-</span> weeks</p>
+                        <p><strong>Farm Size:</strong> <span id="summary-land">-</span> hectares</p>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <h3>Input Requirements</h3>
+                    <div class="summary-details">
+                        <p><strong>Base Fertilizer:</strong> <span id="summary-base-fertilizer">-</span></p>
+                        <p><strong>Top Dressing:</strong> <span id="summary-top-fertilizer">-</span></p>
+                        <p><strong>Pest Spray:</strong> <span id="summary-pest-spray">-</span></p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="guide-timeline">
+                <h3>Step-by-Step Guide</h3>
+                <div class="timeline" id="timeline">
+                    <!-- Timeline items will be populated by JavaScript -->
+                </div>
+            </div>
+            
+            <div class="pest-info">
+                <h3>Common Pests & Diseases</h3>
+                <div class="pest-list" id="pest-list">
+                    <!-- Pest information will be populated by JavaScript -->
+                </div>
+            </div>
+            
+            <div class="print-section">
+                <button id="print-guide" class="btn-primary">
+                    <i class="fas fa-print"></i> Print This Guide
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2023 FarmGuide Kenya. All rights reserved.</p>
+            <p>Agricultural information based on KALRO guidelines and best practices.</p>
+        </div>
+    </footer>
+
+    <script src="C:\Users\User\OneDrive\Desktop\Final PLP\cropdata.js"></script>
+    <script src="C:\Users\User\OneDrive\Desktop\Final PLP\script.js"></script>
+</body>
+</html>
