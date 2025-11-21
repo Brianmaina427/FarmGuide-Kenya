@@ -14,7 +14,7 @@ const CROP_DATA = {
         topDressFertilizerKgPerHa: 125,
         topDressFertilizerType: 'CAN (Calcium Ammonium Nitrate)',
         pestSprayLitresPerHa: 1.5,
-        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Maispflanze.jpg/800px-Maispflanze.jpg',
+        image: 'https://cdn-icons-png.flaticon.com/512/2153/2153788.png',
         commonPests: [
             { name: 'Fall Armyworm', solution: 'Scouting is key. Use targeted systemic insecticides (e.g., Emamectin Benzoate) or biological controls when larvae are young.' },
             { name: 'Maize Lethal Necrosis Disease (MLND)', solution: 'Use certified, resistant seed. Control vector pests (thrips) and practice strict crop rotation.' }
@@ -107,7 +107,7 @@ const CROP_DATA = {
         topDressFertilizerKgPerHa: 400,
         topDressFertilizerType: 'CAN (Calcium Ammonium Nitrate)',
         pestSprayLitresPerHa: 1.0, 
-        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Brassica_oleracea_0.jpg/800px-Brassica_oleracea_0.jpg',
+        image: 'https://cdn-icons-png.flaticon.com/512/2153/2153788.png',
         commonPests: [
             { name: 'Diamond Back Moth (DBM)', solution: 'Rotate insecticides to prevent resistance. Use biological controls (Bacillus thuringiensis) or targeted chemical sprays like Ampligo.' },
             { name: 'Bacterial Black Rot', solution: 'Use certified, clean seed and practice strict hygiene. No chemical cure; rotation is vital.' }
@@ -272,7 +272,7 @@ const CROP_DATA = {
         topDressFertilizerKgPerHa: 50,
         topDressFertilizerType: 'CAN (Top Dressing)',
         pestSprayLitresPerHa: 0.5, 
-        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Coriander_002.JPG/800px-Coriander_002.JPG',
+        image: 'https://cdn-icons-png.flaticon.com/512/2153/2153788.png',
         commonPests: [
             { name: 'Aphids', solution: 'Use neem oil or mild, approved insecticide (0.5 L/Ha). Do not spray close to harvest.' },
             { name: 'Damping Off', solution: 'Ensure well-drained soil and avoid overwatering, especially immediately after sowing.' }
@@ -368,6 +368,7 @@ const CROP_DATA = {
     }
 
 };
+
 
 
 
