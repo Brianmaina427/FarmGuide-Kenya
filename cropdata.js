@@ -14,7 +14,7 @@ const CROP_DATA = {
         topDressFertilizerKgPerHa: 125,
         topDressFertilizerType: 'CAN (Calcium Ammonium Nitrate)',
         pestSprayLitresPerHa: 1.5,
-        image: 'cabbage.png',
+        image: 'https://cdn.pixabay.com/photo/2018/10/21/17/23/cornfield-3763119_1280.jpg',
         commonPests: [
             { name: 'Fall Armyworm', solution: 'Scouting is key. Use targeted systemic insecticides (e.g., Emamectin Benzoate) or biological controls when larvae are young.' },
             { name: 'Maize Lethal Necrosis Disease (MLND)', solution: 'Use certified, resistant seed. Control vector pests (thrips) and practice strict crop rotation.' }
@@ -368,3 +368,4 @@ const CROP_DATA = {
     }
 
 };
+
