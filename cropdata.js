@@ -107,7 +107,7 @@ const CROP_DATA = {
         topDressFertilizerKgPerHa: 400,
         topDressFertilizerType: 'CAN (Calcium Ammonium Nitrate)',
         pestSprayLitresPerHa: 1.0, 
-        image: 'https://cdn-icons-png.flaticon.com/512/2153/2153788.png',
+        image: 'https://images.unsplash.com/photo-1540420773420-3366772f4999?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80',
         commonPests: [
             { name: 'Diamond Back Moth (DBM)', solution: 'Rotate insecticides to prevent resistance. Use biological controls (Bacillus thuringiensis) or targeted chemical sprays like Ampligo.' },
             { name: 'Bacterial Black Rot', solution: 'Use certified, clean seed and practice strict hygiene. No chemical cure; rotation is vital.' }
@@ -272,7 +272,7 @@ const CROP_DATA = {
         topDressFertilizerKgPerHa: 50,
         topDressFertilizerType: 'CAN (Top Dressing)',
         pestSprayLitresPerHa: 0.5, 
-        image: 'https://cdn-icons-png.flaticon.com/512/2153/2153788.png',
+        image: 'https://images.pexels.com/photos/533360/pexels-photo-533360.jpeg',
         commonPests: [
             { name: 'Aphids', solution: 'Use neem oil or mild, approved insecticide (0.5 L/Ha). Do not spray close to harvest.' },
             { name: 'Damping Off', solution: 'Ensure well-drained soil and avoid overwatering, especially immediately after sowing.' }
@@ -368,6 +368,7 @@ const CROP_DATA = {
     }
 
 };
+
 
 
 
