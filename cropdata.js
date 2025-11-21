@@ -107,7 +107,7 @@ const CROP_DATA = {
         topDressFertilizerKgPerHa: 400,
         topDressFertilizerType: 'CAN (Calcium Ammonium Nitrate)',
         pestSprayLitresPerHa: 1.0, 
-        image: 'C:\Users\User\OneDrive\Desktop\Final PLP\cabbage.jpg',
+        image: 'https://cdn.pixabay.com/photo/2016/03/05/19/02/cabbage-1238251_1280.jpg',
         commonPests: [
             { name: 'Diamond Back Moth (DBM)', solution: 'Rotate insecticides to prevent resistance. Use biological controls (Bacillus thuringiensis) or targeted chemical sprays like Ampligo.' },
             { name: 'Bacterial Black Rot', solution: 'Use certified, clean seed and practice strict hygiene. No chemical cure; rotation is vital.' }
@@ -272,7 +272,7 @@ const CROP_DATA = {
         topDressFertilizerKgPerHa: 50,
         topDressFertilizerType: 'CAN (Top Dressing)',
         pestSprayLitresPerHa: 0.5, 
-        image: 'https://images.unsplash.com/photo-1599889962058-27e7b6b9aa98?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29yaWFuZGVyfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60',
+        image: 'https://cdn.pixabay.com/photo/2017/06/21/17/48/coriander-2427969_1280.jpg',
         commonPests: [
             { name: 'Aphids', solution: 'Use neem oil or mild, approved insecticide (0.5 L/Ha). Do not spray close to harvest.' },
             { name: 'Damping Off', solution: 'Ensure well-drained soil and avoid overwatering, especially immediately after sowing.' }
@@ -293,7 +293,7 @@ const CROP_DATA = {
         topDressFertilizerKgPerHa: 50, 
         topDressFertilizerType: 'CAN (Top Dressing)',
         pestSprayLitresPerHa: 0.0, 
-        image: 'https://images.unsplash.com/photo-1592924688931-d656535bab1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmVldHJvb3R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60',
+        image: 'https://cdn.pixabay.com/photo/2016/11/23/00/32/beet-1851423_1280.jpg',
         commonPests: [
             { name: 'Leaf Miners', solution: 'Squash the larvae inside the leaf or remove and destroy infected leaves.' },
             { name: 'Cercospora Leaf Spot', solution: 'Practice crop rotation and apply copper-based fungicide if severe.' }
@@ -368,4 +368,5 @@ const CROP_DATA = {
     }
 
 };
+
 
