@@ -281,10 +281,10 @@ Contribute to content development
 
 📞 Contact & Collaboration
 Project Lead
-Developer: [Your Name]
-Email: [Your Email]
-LinkedIn: [Your LinkedIn Profile]
-Portfolio: [Your Portfolio Website]
+Developer: [Brian Maina]
+Email: [brianmaina427@gmail.com]
+
+
 
 SDG Partnership Inquiries
 We welcome collaborations with:
@@ -314,18 +314,6 @@ FarmGuide Kenya - More Than an App, A Movement
 
 "Transforming smallholder farming through technology, one crop at a time"
 
-[Live Deployment] • [Impact Report] • [Partnership Portal]
-
 Aligning with Kenya's Vision 2030 and UN Sustainable Development Goals
 
 </div>
-📚 Additional Resources
-[Full SDG Alignment Report]
-
-[Kenyan Agricultural Context Analysis]
-
-[Implementation Case Studies]
-
-[Partner Integration Guide]
-
-[Impact Measurement Framework]
