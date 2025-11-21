@@ -14,7 +14,7 @@ const CROP_DATA = {
         topDressFertilizerKgPerHa: 125,
         topDressFertilizerType: 'CAN (Calcium Ammonium Nitrate)',
         pestSprayLitresPerHa: 1.5,
-        image: 'https://images.pexels.com/photos/389886/pexels-photo-389886.jpeg',
+        image: 'https://i.ibb.co/0j1L8w2/maize-plant.jpg',
         commonPests: [
             { name: 'Fall Armyworm', solution: 'Scouting is key. Use targeted systemic insecticides (e.g., Emamectin Benzoate) or biological controls when larvae are young.' },
             { name: 'Maize Lethal Necrosis Disease (MLND)', solution: 'Use certified, resistant seed. Control vector pests (thrips) and practice strict crop rotation.' }
@@ -107,7 +107,7 @@ const CROP_DATA = {
         topDressFertilizerKgPerHa: 400,
         topDressFertilizerType: 'CAN (Calcium Ammonium Nitrate)',
         pestSprayLitresPerHa: 1.0, 
-        image: 'https://images.pexels.com/photos/1557088/pexels-photo-1557088.jpeg',
+        image: 'https://i.ibb.co/0Q8q1Y2/cabbage-plant.jpg',
         commonPests: [
             { name: 'Diamond Back Moth (DBM)', solution: 'Rotate insecticides to prevent resistance. Use biological controls (Bacillus thuringiensis) or targeted chemical sprays like Ampligo.' },
             { name: 'Bacterial Black Rot', solution: 'Use certified, clean seed and practice strict hygiene. No chemical cure; rotation is vital.' }
@@ -272,7 +272,7 @@ const CROP_DATA = {
         topDressFertilizerKgPerHa: 50,
         topDressFertilizerType: 'CAN (Top Dressing)',
         pestSprayLitresPerHa: 0.5, 
-        image: 'https://www.pexels.com/photo/green-leafed-plant-606540',
+        image: 'https://i.ibb.co/0Q8q1Y2/coriander-plant.jpg',
         commonPests: [
             { name: 'Aphids', solution: 'Use neem oil or mild, approved insecticide (0.5 L/Ha). Do not spray close to harvest.' },
             { name: 'Damping Off', solution: 'Ensure well-drained soil and avoid overwatering, especially immediately after sowing.' }
@@ -368,6 +368,7 @@ const CROP_DATA = {
     }
 
 };
+
 
 
 
