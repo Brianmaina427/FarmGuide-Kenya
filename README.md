@@ -1,4 +1,4 @@
-FarmGuide Kenya - Crop Management Assistant
+<b> FarmGuide Kenya - Crop Management Assistant </b>
 🌱 Aligning with Sustainable Development Goals (SDGs)
 <div align="center">
 https://via.placeholder.com/800x200/4CAF50/FFFFFF?text=FarmGuide+Kenya+Advancing+Sustainable+Development+Goals
